@@ -6,5 +6,5 @@
 **Note:** 
 * The ipynb file has the complete EDA along with ML models built for prediction.
 * For further project details refer the report.
-*  [dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+* [dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
  
